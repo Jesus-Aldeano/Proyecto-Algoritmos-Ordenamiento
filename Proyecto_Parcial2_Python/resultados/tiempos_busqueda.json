@@ -1,0 +1,55 @@
+{
+  "ids_existentes": [
+    8,
+    21,
+    33,
+    48,
+    42,
+    7,
+    15,
+    39,
+    40,
+    36
+  ],
+  "ids_inexistentes": [
+    2723,
+    4209,
+    3346,
+    3244,
+    4451,
+    3993,
+    4181,
+    4147,
+    3011,
+    4077
+  ],
+  "binaria_10_existentes_us": 5.103211,
+  "binaria_10_inexistentes_us": 5.876932,
+  "consultas_nombres_positivas": [
+    "pro",
+    "premium",
+    "clásico",
+    "digital",
+    "compacto",
+    "ergonómico",
+    "camisa",
+    "Mouse",
+    "mesa",
+    "audífonos"
+  ],
+  "consultas_nombres_negativas": [
+    "xyz_no_existe",
+    "qwerty",
+    "sin_coincidencia_01",
+    "articulo_inexistente",
+    "zzzz",
+    "producto_fantasma",
+    "no_hay_resultado",
+    "abc999",
+    "inexistente",
+    "nada_que_ver"
+  ],
+  "lineal_10_positivas_us": 46.666925000000006,
+  "lineal_10_negativas_us": 52.810711000000005,
+  "repeticiones_por_lote": 1000
+}

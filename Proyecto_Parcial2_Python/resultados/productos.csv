@@ -1,0 +1,51 @@
+﻿id,nombre,precio,categoria,stock,calificacionPromedio
+1,Mouse Clásico,951.58,Electrónica,26,4.5
+2,Botella deportiva Clásico,423.5,Deportes,146,3.2
+3,Licuadora Ergonómico,588.58,Hogar,61,1.0
+4,Audífonos Compacto,817.67,Electrónica,115,1.0
+5,Organizador Compacto,214.16,Hogar,64,2.4
+6,Manual de datos Digital,516.01,Libros,19,3.9
+7,Cámara Clásico,295.65,Electrónica,117,1.6
+8,Bicicleta Básico,848.55,Deportes,94,2.5
+9,Lámpara Pro,891.5,Hogar,141,3.0
+10,Monitor Clásico,803.53,Electrónica,125,2.6
+11,Bicicleta Ergonómico,422.86,Deportes,122,3.1
+12,Cámara Premium,766.99,Electrónica,12,4.9
+13,Colchoneta Básico,718.71,Deportes,109,2.9
+14,Silla Ergonómico,886.48,Hogar,116,3.7
+15,Bicicleta Clásico,405.06,Deportes,78,3.2
+16,Colchoneta Pro,805.86,Deportes,102,2.7
+17,Atlas Básico,37.93,Libros,117,4.2
+18,Mesa Premium,263.8,Hogar,124,2.9
+19,Licuadora Pro,560.04,Hogar,8,4.3
+20,Manual de datos Ergonómico,102.87,Libros,131,2.0
+21,Vestido Ergonómico,729.32,Ropa,16,3.6
+22,Mesa Básico,198.6,Hogar,105,1.6
+23,Audífonos Básico,453.96,Electrónica,139,4.7
+24,Cámara Ergonómico,202.79,Electrónica,30,3.5
+25,Bicicleta Digital,758.86,Deportes,91,1.6
+26,Biografía Clásico,576.4,Libros,125,3.8
+27,Sudadera Premium,475.61,Ropa,33,4.8
+28,Bicicleta Básico,420.68,Deportes,40,4.7
+29,Bicicleta Clásico,414.97,Deportes,38,3.1
+30,Vestido Básico,959.02,Ropa,99,4.6
+31,Tablet Compacto,648.03,Electrónica,6,1.1
+32,Mesa Digital,307.14,Hogar,83,4.7
+33,Cafetera Clásico,620.5,Hogar,43,1.6
+34,Mancuernas Pro,625.22,Deportes,117,3.4
+35,Cámara Pro,38.97,Electrónica,44,1.2
+36,Balón Pro,868.74,Deportes,48,2.9
+37,Teclado Digital,532.28,Electrónica,132,4.6
+38,Pantalón Digital,845.14,Ropa,99,2.1
+39,Raqueta Ergonómico,83.26,Deportes,78,1.7
+40,Chaqueta Pro,500.1,Ropa,106,2.2
+41,Chaqueta Clásico,484.63,Ropa,30,3.1
+42,Bicicleta Ergonómico,99.08,Deportes,54,1.9
+43,Monitor Digital,333.78,Electrónica,139,4.1
+44,Camisa Compacto,847.3,Ropa,90,3.2
+45,Botella deportiva Premium,114.14,Deportes,71,3.2
+46,Colchoneta Premium,571.98,Deportes,144,2.1
+47,Mancuernas Básico,782.62,Deportes,24,4.8
+48,Camisa Digital,65.11,Ropa,91,3.9
+49,Zapatos Digital,110.78,Ropa,80,2.1
+50,Mouse Compacto,165.57,Electrónica,65,1.3

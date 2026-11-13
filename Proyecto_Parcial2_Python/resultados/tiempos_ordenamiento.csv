@@ -1,0 +1,7 @@
+criterio,algoritmo,promedio_us,mediana_us,repeticiones
+Precio ascendente,Merge Sort,45.846634,43.045,1000
+Precio ascendente,Quick Sort,25.786403999999997,24.066,1000
+Precio ascendente,Heap Sort,51.804843,49.755,1000
+Calificación descendente,Merge Sort,47.872848,44.357,1000
+Calificación descendente,Quick Sort,26.789255,24.657,1000
+Calificación descendente,Heap Sort,57.272759,53.561,1000
